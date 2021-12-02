@@ -60,7 +60,7 @@ div.desc {
 <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="">
-      <img src="jpg/w.jpg" alt="Cinque Terre" width="600" height="400">
+      <img src="jpg/f22.jpg" alt="Cinque Terre" width="600" height="400">
     </a>
     <div class="desc">฿ 800 TH</div>
   </div>
