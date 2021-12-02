@@ -1,6 +1,6 @@
 <style>
     .mys{
-        background-image: url('jpg/a.jpg');
+        background-color: #202228;
         background-size: cover;
     }
     .jtext{
