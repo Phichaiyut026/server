@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <p>แก้ไขครั้งที่ 1</p>
+    <h1>แก้ไขครั้งที่ 1</h1>
 </body>
 </html>
